@@ -224,3 +224,27 @@ function testFetch() {
   Logger.log('Status Code: ' + response.getResponseCode());
   Logger.log(response.getContentText());
 }
+
+/**
+ * Diagnostic tool to check and verify Blogger OAuth authorization
+ */
+function checkAuthAndBlogs() {
+  const token = ScriptApp.getOAuthToken();
+  Logger.log('🔑 Checking OAuth token...');
+  
+  const response = UrlFetchApp.fetch('https://www.googleapis.com/blogger/v3/users/self/blogs', {
+    headers: {
+      'Authorization': 'Bearer ' + token
+    },
+    muteHttpExceptions: true
+  });
+  
+  Logger.log('HTTP Status: ' + response.getResponseCode());
+  Logger.log('Response: ' + response.getContentText());
+  
+  if (response.getResponseCode() === 200) {
+    Logger.log('✅ Blogger API connection is fully AUTHORIZED and WORKING!');
+  } else if (response.getResponseCode() === 403) {
+    Logger.log('❌ Scope not active yet. Please follow the re-authorization steps.');
+  }
+}
