@@ -102,22 +102,72 @@ function checkAndPublishPosts() {
         status: CONFIG.PUBLISH_STATUS
       };
       
-      // Publish to Blogger using the advanced Google Apps Script Blogger API service
-      const result = Blogger.Posts.insert(blogPost, CONFIG.BLOG_ID);
+      // Publish to Blogger (supports both Advanced Service and REST API)
+      const result = publishToBlogger(blogPost, CONFIG.BLOG_ID, CONFIG.PUBLISH_STATUS);
       
-      // Mark as published in persistent script properties
-      publishedPosts.push(postRef.id);
-      props.setProperty('publishedPosts', JSON.stringify(publishedPosts));
-      
-      Logger.log('✅ SUCCESS: Published "' + metadata.title + '"');
-      Logger.log('   Blogger Post ID: ' + result.id);
-      Logger.log('   URL: ' + result.url);
+      if (result && result.id) {
+        // Mark as published in persistent script properties
+        publishedPosts.push(postRef.id);
+        props.setProperty('publishedPosts', JSON.stringify(publishedPosts));
+        
+        Logger.log('✅ SUCCESS: Published "' + metadata.title + '"');
+        Logger.log('   Blogger Post ID: ' + result.id);
+        Logger.log('   URL: ' + (result.url || 'Created as draft'));
+      }
     }
     
   } catch (error) {
     Logger.log('❌ ERROR: ' + error.toString());
     Logger.log('Stack: ' + error.stack);
   }
+}
+
+/**
+ * Publishes a post to Blogger using Advanced Service or REST API
+ */
+function publishToBlogger(blogPost, blogId, publishStatus) {
+  // Method 1: Advanced Blogger Service (if enabled in Services tab)
+  if (typeof Blogger !== 'undefined') {
+    Logger.log('Publishing via Blogger Advanced Service...');
+    return Blogger.Posts.insert(blogPost, blogId);
+  }
+  
+  // Method 2: Blogger REST API v3 with OAuth token
+  Logger.log('Blogger Advanced Service not enabled. Falling back to Blogger REST API v3...');
+  const isDraft = publishStatus !== 'live';
+  const apiUrl = 'https://www.googleapis.com/blogger/v3/blogs/' + blogId + '/posts?isDraft=' + isDraft;
+  
+  const payload = {
+    kind: 'blogger#post',
+    blog: { id: blogId },
+    title: blogPost.title,
+    content: blogPost.content,
+    labels: blogPost.labels || []
+  };
+  
+  const options = {
+    method: 'post',
+    contentType: 'application/json',
+    headers: {
+      'Authorization': 'Bearer ' + ScriptApp.getOAuthToken()
+    },
+    payload: JSON.stringify(payload),
+    muteHttpExceptions: true
+  };
+  
+  const response = UrlFetchApp.fetch(apiUrl, options);
+  const code = response.getResponseCode();
+  const text = response.getContentText();
+  
+  if (code === 200 || code === 201) {
+    return JSON.parse(text);
+  }
+  
+  Logger.log('❌ Blogger REST API call failed (HTTP ' + code + '): ' + text);
+  if (code === 401 || code === 403) {
+    Logger.log('👉 TIP: Please enable the Blogger Service: In the left sidebar of Apps Script, click "+" next to Services, choose "Blogger API", and click "Add".');
+  }
+  throw new Error('Failed to publish to Blogger: ' + text);
 }
 
 /**
