@@ -111,7 +111,7 @@ Use semantic tags: `<article>`, `<section>`, `<h1>`, `<h2>`, `<h3>`, `<p>`, `<ul
   "title": "Exact Blog Title",
   "slug": "url-friendly-slug",
   "url": "https://newsgully.blogspot.com/YYYY/MM/slug.html",
-  "htmlUrlLocation": "https://YOURUSERNAME.github.io/YOUR-REPO/content/YYYY-MM-DD-slug/blog-content.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/YYYY-MM-DD-slug/blog-content.html",
   "metaTitle": "SEO Title (50-60 chars)",
   "metaDescription": "SEO Description (150-160 chars)",
   "primaryKeyword": "main keyword",
@@ -135,7 +135,7 @@ Use semantic tags: `<article>`, `<section>`, `<h1>`, `<h2>`, `<h3>`, `<p>`, `<ul
   "bloggerApiPayload": {
     "kind": "blogger#post",
     "blog": {
-      "id": "YOUR_BLOG_ID"
+      "id": "2578040363867477079"
     },
     "title": "Exact Blog Title",
     "content": "",
@@ -153,7 +153,7 @@ Append the new post to the `posts` array. Create file if it doesn't exist.
   "posts": [
     {
       "id": "YYYY-MM-DD-slug",
-      "metadataUrl": "https://YOURUSERNAME.github.io/YOUR-REPO/content/YYYY-MM-DD-slug/metadata.json",
+      "metadataUrl": "https://nitinkanade.github.io/news-gully-blogs/content/YYYY-MM-DD-slug/metadata.json",
       "status": "ready",
       "addedAt": "YYYY-MM-DDTHH:mm:ssZ"
     }

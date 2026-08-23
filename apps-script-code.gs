@@ -7,10 +7,10 @@
 
 const CONFIG = {
   // Your GitHub Pages base URL (replace YOURUSERNAME and YOUR-REPO with your actual GitHub repo details)
-  GITHUB_PAGES_BASE: 'https://YOURUSERNAME.github.io/YOUR-REPO',
+  GITHUB_PAGES_BASE: 'https://nitinkanade.github.io/news-gully-blogs',
   
   // Your Blogger Blog ID (found in Blogger Dashboard URL / Settings)
-  BLOG_ID: 'YOUR_BLOG_ID',
+  BLOG_ID: '2578040363867477079',
   
   // Set to 'draft' for review before going live, or 'live' for instant automated publishing
   PUBLISH_STATUS: 'draft'
@@ -60,25 +60,35 @@ function checkAndPublishPosts() {
       
       Logger.log('Processing post: ' + postRef.id);
       
+      // Resolve metadata URL (handles placeholders or relative paths)
+      const metadataUrl = resolveUrl(postRef.metadataUrl, postRef.id, 'metadata.json');
+      Logger.log('Fetching metadata from: ' + metadataUrl);
+      
       // Fetch metadata.json
-      const metaResponse = UrlFetchApp.fetch(postRef.metadataUrl, {
-        muteHttpExceptions: true
+      const metaResponse = UrlFetchApp.fetch(metadataUrl, {
+        muteHttpExceptions: true,
+        headers: { 'Cache-Control': 'no-cache' }
       });
       
       if (metaResponse.getResponseCode() !== 200) {
-        Logger.log('Failed to fetch metadata for ' + postRef.id);
+        Logger.log('❌ Failed to fetch metadata for ' + postRef.id + ' (HTTP ' + metaResponse.getResponseCode() + ' from ' + metadataUrl + ')');
         continue;
       }
       
       const metadata = JSON.parse(metaResponse.getContentText());
       
-      // Fetch HTML content from htmlUrlLocation
-      const htmlResponse = UrlFetchApp.fetch(metadata.htmlUrlLocation, {
-        muteHttpExceptions: true
+      // Resolve HTML content URL
+      const htmlUrl = resolveUrl(metadata.htmlUrlLocation, postRef.id, 'blog-content.html');
+      Logger.log('Fetching HTML content from: ' + htmlUrl);
+      
+      // Fetch HTML content
+      const htmlResponse = UrlFetchApp.fetch(htmlUrl, {
+        muteHttpExceptions: true,
+        headers: { 'Cache-Control': 'no-cache' }
       });
       
       if (htmlResponse.getResponseCode() !== 200) {
-        Logger.log('Failed to fetch HTML for ' + postRef.id);
+        Logger.log('❌ Failed to fetch HTML for ' + postRef.id + ' (HTTP ' + htmlResponse.getResponseCode() + ' from ' + htmlUrl + ')');
         continue;
       }
       
@@ -108,6 +118,19 @@ function checkAndPublishPosts() {
     Logger.log('❌ ERROR: ' + error.toString());
     Logger.log('Stack: ' + error.stack);
   }
+}
+
+/**
+ * Helper to safely resolve GitHub Pages URL
+ */
+function resolveUrl(url, postId, defaultFilename) {
+  if (!url || url.includes('YOURUSERNAME') || url.includes('YOUR-REPO')) {
+    return CONFIG.GITHUB_PAGES_BASE + '/content/' + postId + '/' + defaultFilename;
+  }
+  if (url.startsWith('/')) {
+    return CONFIG.GITHUB_PAGES_BASE + url;
+  }
+  return url;
 }
 
 /**
