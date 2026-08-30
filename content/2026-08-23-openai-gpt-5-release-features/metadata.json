@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-openai-gpt-5-release-features",
+  "title": "OpenAI GPT-5: Release Date, Expected Features, and Everything You Need to Know",
+  "slug": "openai-gpt-5-release-features",
+  "url": "https://newsgully.blogspot.com/2026/08/openai-gpt-5-release-features.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-openai-gpt-5-release-features/blog-content.html",
+  "metaTitle": "OpenAI GPT-5 Release Date & Features: Complete Guide",
+  "metaDescription": "Discover everything you need to know about OpenAI GPT-5, including expected release dates, groundbreaking features, pricing, and how it will transform AI.",
+  "primaryKeyword": "OpenAI GPT-5",
+  "secondaryKeywords": ["GPT-5 release date", "GPT-5 features", "AI models"],
+  "longTailKeywords": ["when will GPT-5 be released", "what to expect from GPT-5", "GPT-4 vs GPT-5 comparison"],
+  "labels": ["Tech", "AI", "Guides"],
+  "tags": ["Tech", "AI", "OpenAI", "GPT-5"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Futuristic abstract representation of artificial intelligence technology and OpenAI GPT-5",
+  "readingTime": "7 min",
+  "wordCount": 1350,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "YOUR_BLOG_ID"
+    },
+    "title": "OpenAI GPT-5: Release Date, Expected Features, and Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "AI", "Guides"],
+    "status": "draft"
+  }
+}
