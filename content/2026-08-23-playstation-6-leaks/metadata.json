@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-playstation-6-leaks",
+  "title": "PlayStation 6 Leaks: Specs, Price, and Release Date Rumors",
+  "slug": "playstation-6-leaks",
+  "url": "https://newsgully.blogspot.com/2026/08/playstation-6-leaks.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-playstation-6-leaks/blog-content.html",
+  "metaTitle": "PlayStation 6 Leaks: Next-Gen Specs & Release Info",
+  "metaDescription": "Discover the latest PlayStation 6 leaks. Read about the revolutionary specs, release date predictions, and pricing for Sony's next console.",
+  "primaryKeyword": "PlayStation 6 Leaks",
+  "secondaryKeywords": ["PS6 specs", "PS6 release date", "next-gen console rumors"],
+  "longTailKeywords": ["when will the ps6 come out", "how much will the ps6 cost"],
+  "labels": ["Tech", "News", "Gaming"],
+  "tags": ["Tech", "Gaming", "Sony", "PlayStation"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T12:00:00+05:30",
+  "modifiedDate": "2026-08-23T12:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "PlayStation controller lit up with neon lights highlighting PlayStation 6 Leaks",
+  "readingTime": "8 min",
+  "wordCount": 1948,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "YOUR_BLOG_ID"
+    },
+    "title": "PlayStation 6 Leaks: Specs, Price, and Release Date Rumors",
+    "content": "",
+    "labels": ["Tech", "News", "Gaming"],
+    "status": "draft"
+  }
+}
