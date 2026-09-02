@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-tiktok-ai-video-generator-guide",
+  "title": "TikTok's New AI Video Generator: How to Use It for Viral Content",
+  "slug": "tiktok-ai-video-generator-guide",
+  "url": "https://newsgully.blogspot.com/2026/08/tiktok-ai-video-generator-guide.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-tiktok-ai-video-generator-guide/blog-content.html",
+  "metaTitle": "TikTok AI Video Generator: Guide to Viral Clips",
+  "metaDescription": "Master TikTok's new AI video generator. Learn to create viral clips, use prompt engineering, and skyrocket your social media engagement effortlessly.",
+  "primaryKeyword": "TikTok AI video generator",
+  "secondaryKeywords": ["TikTok AI features", "AI video creation", "viral TikTok tips"],
+  "longTailKeywords": ["how to use TikTok AI video generator", "best prompts for TikTok AI"],
+  "labels": ["Tech", "Social Media", "AI", "Guides"],
+  "tags": ["TikTok", "AI", "Social Media", "Video Editing"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T12:00:00+05:30",
+  "modifiedDate": "2026-08-23T12:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Phone displaying the TikTok app interface next to an AI icon",
+  "readingTime": "7 min",
+  "wordCount": 1676,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "YOUR_BLOG_ID"
+    },
+    "title": "TikTok's New AI Video Generator: How to Use It for Viral Content",
+    "content": "",
+    "labels": ["Tech", "Social Media", "AI", "Guides"],
+    "status": "draft"
+  }
+}
