@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-openai-gpt-5-release-features",
+  "title": "OpenAI GPT-5 Release Date and Features: Everything You Need to Know",
+  "slug": "openai-gpt-5-release-features",
+  "url": "https://newsgully.blogspot.com/2026/08/openai-gpt-5-release-features.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-openai-gpt-5-release-features/blog-content.html",
+  "metaTitle": "OpenAI GPT-5 Release Date and Features: What to Expect",
+  "metaDescription": "Discover the latest on OpenAI GPT-5 Release Date and Features. Explore what to expect from ChatGPT-5, its multimodality, and more. Stay ahead with News Gully!",
+  "primaryKeyword": "OpenAI GPT-5 Release Date and Features",
+  "secondaryKeywords": ["ChatGPT-5", "GPT-5 leaks", "AI updates", "artificial intelligence 2026"],
+  "longTailKeywords": ["when is GPT-5 coming out", "how GPT-5 compares to GPT-4"],
+  "labels": ["Tech", "News", "AI", "Guides"],
+  "tags": ["Tech", "AI", "OpenAI", "ChatGPT"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T10:00:00+05:30",
+  "modifiedDate": "2026-08-23T10:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Artificial Intelligence concept highlighting OpenAI GPT-5 Release Date and Features",
+  "readingTime": "7 min",
+  "wordCount": 1615,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "YOUR_BLOG_ID"
+    },
+    "title": "OpenAI GPT-5 Release Date and Features: Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "News", "AI", "Guides"],
+    "status": "draft"
+  }
+}
