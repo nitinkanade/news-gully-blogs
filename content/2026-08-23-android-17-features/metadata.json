@@ -1,0 +1,61 @@
+{
+  "id": "2026-08-23-android-17-features",
+  "title": "Android 17 Features: Everything You Need to Know",
+  "slug": "android-17-features-everything-you-need-to-know",
+  "url": "https://newsgully.blogspot.com/2026/08/android-17-features-everything-you-need-to-know.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-android-17-features/blog-content.html",
+  "metaTitle": "Android 17 Features: Everything You Need to Know",
+  "metaDescription": "Discover the top Android 17 features, release date, and supported devices. Get ready for Google's next big OS update with our ultimate guide.",
+  "primaryKeyword": "Android 17 features",
+  "secondaryKeywords": [
+    "Android 17 release date",
+    "Android 17 supported devices",
+    "new Android OS"
+  ],
+  "longTailKeywords": [
+    "what's new in Android 17",
+    "will my phone get Android 17"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides",
+    "Mobile",
+    "Android"
+  ],
+  "tags": [
+    "Tech",
+    "Mobile",
+    "Android 17",
+    "Google"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Smartphone showing Android 17 features",
+  "readingTime": "7 min",
+  "wordCount": 2783,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "YOUR_BLOG_ID"
+    },
+    "title": "Android 17 Features: Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides",
+      "Mobile",
+      "Android"
+    ],
+    "status": "draft"
+  }
+}
