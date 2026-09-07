@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-searchgpt-openai-search-engine-guide",
+  "title": "What is SearchGPT? How OpenAI's Search Engine Could Replace Google",
+  "slug": "searchgpt-openai-search-engine-guide",
+  "url": "https://newsgully.blogspot.com/2026/08/searchgpt-openai-search-engine-guide.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-searchgpt-openai-search-engine-guide/blog-content.html",
+  "metaTitle": "SearchGPT Explained: Will OpenAI's Tool Replace Google?",
+  "metaDescription": "Discover everything you need to know about SearchGPT, OpenAI's revolutionary AI search engine. Learn how it works and its features. Bookmark News Gully!",
+  "primaryKeyword": "SearchGPT",
+  "secondaryKeywords": ["AI search engine", "OpenAI search", "replace Google"],
+  "longTailKeywords": ["what is SearchGPT", "how does SearchGPT work", "will SearchGPT replace Google"],
+  "labels": ["Tech", "AI", "Guides", "News"],
+  "tags": ["Tech", "AI", "Search Engines", "OpenAI", "Google"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T10:00:00+05:30",
+  "modifiedDate": "2026-08-23T10:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1673847401561-fcd736bf19c5?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Concept illustrating AI search technology and SearchGPT",
+  "readingTime": "7 min",
+  "wordCount": 1618,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "YOUR_BLOG_ID"
+    },
+    "title": "What is SearchGPT? How OpenAI's Search Engine Could Replace Google",
+    "content": "",
+    "labels": ["Tech", "AI", "Guides", "News"],
+    "status": "draft"
+  }
+}
