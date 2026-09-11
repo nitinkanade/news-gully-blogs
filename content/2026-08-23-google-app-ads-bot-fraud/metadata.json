@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-google-app-ads-bot-fraud",
+  "title": "Google App Ads Bot Fraud: Why 60% of Installs Are Fake",
+  "slug": "google-app-ads-bot-fraud",
+  "url": "https://newsgully.blogspot.com/2026/08/google-app-ads-bot-fraud.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-google-app-ads-bot-fraud/blog-content.html",
+  "metaTitle": "Google App Ads Bot Fraud: Avoid Fake Installs (2026)",
+  "metaDescription": "Discover how Google app ads bot fraud causes 60% of installs to be fake, draining budgets. Learn to identify, prevent, and protect your app campaigns.",
+  "primaryKeyword": "Google app ads bot fraud",
+  "secondaryKeywords": [
+    "fake app installs",
+    "ad fraud prevention",
+    "bot traffic on Google Ads"
+  ],
+  "longTailKeywords": [
+    "how to stop bot installs on Google Ads",
+    "why are my app installs fake"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides"
+  ],
+  "tags": [
+    "Tech",
+    "Advertising",
+    "Mobile"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T09:00:00+05:30",
+  "modifiedDate": "2026-08-23T09:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Concept of Google app ads bot fraud with digital security themes",
+  "readingTime": "7 min",
+  "wordCount": 1471,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Google App Ads Bot Fraud: Why 60% of Installs Are Fake",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
