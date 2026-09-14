@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-openai-sora-public-release",
+  "title": "OpenAI Sora Public Release: Everything You Need to Know",
+  "slug": "openai-sora-public-release",
+  "url": "https://newsgully.blogspot.com/2026/08/openai-sora-public-release.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-openai-sora-public-release/blog-content.html",
+  "metaTitle": "OpenAI Sora Public Release: Features & Pricing Explained",
+  "metaDescription": "The OpenAI Sora public release is here! Discover everything you need to know about this text-to-video AI generator. Start creating amazing videos today.",
+  "primaryKeyword": "OpenAI Sora public release",
+  "secondaryKeywords": ["text-to-video AI", "AI video generator", "OpenAI Sora features"],
+  "longTailKeywords": ["how to use OpenAI Sora", "is OpenAI Sora free"],
+  "labels": ["Tech", "AI", "Guides", "News"],
+  "tags": ["OpenAI", "Sora", "Artificial Intelligence", "Video Generation"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T10:00:00+05:30",
+  "modifiedDate": "2026-08-23T10:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "OpenAI Sora public release concept with AI glowing interface",
+  "readingTime": "5 min",
+  "wordCount": 1382,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "OpenAI Sora Public Release: Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "AI", "Guides", "News"],
+    "status": "draft"
+  }
+}
