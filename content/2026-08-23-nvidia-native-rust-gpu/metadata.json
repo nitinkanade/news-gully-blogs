@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-nvidia-native-rust-gpu",
+  "title": "Nvidia Announces Native GPU Programming in Rust: Everything You Need to Know",
+  "slug": "nvidia-native-rust-gpu",
+  "url": "https://newsgully.blogspot.com/2026/08/nvidia-native-rust-gpu.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-nvidia-native-rust-gpu/blog-content.html",
+  "metaTitle": "Nvidia Native GPU Programming in Rust: Complete Guide",
+  "metaDescription": "Discover how Nvidia native GPU programming in Rust is revolutionizing high-performance computing, bringing memory safety and speed to AI and graphics.",
+  "primaryKeyword": "Nvidia native GPU programming in Rust",
+  "secondaryKeywords": ["Rust for GPU", "Nvidia Rust support", "CUDA vs Rust"],
+  "longTailKeywords": ["how to use Rust with Nvidia GPU", "is Rust replacing CUDA"],
+  "labels": ["Tech", "Programming", "AI"],
+  "tags": ["Rust", "Nvidia", "GPU", "AI", "Programming"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T10:00:00+05:30",
+  "modifiedDate": "2026-08-23T10:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1591405351990-4726e331f141?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Nvidia native GPU programming in Rust concept with circuitry",
+  "readingTime": "8 min",
+  "wordCount": 1668,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Nvidia Announces Native GPU Programming in Rust: Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "Programming", "AI"],
+    "status": "draft"
+  }
+}
