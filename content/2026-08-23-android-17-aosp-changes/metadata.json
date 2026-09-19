@@ -1,0 +1,59 @@
+{
+  "id": "2026-08-23-android-17-aosp-changes",
+  "title": "Android 17 dropping AOSP for new APIs: Everything You Need To Know",
+  "slug": "android-17-aosp-changes",
+  "url": "https://newsgully.blogspot.com/2026/08/android-17-aosp-changes.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-android-17-aosp-changes/blog-content.html",
+  "metaTitle": "Android 17 Dropping AOSP For New APIs: What It Means",
+  "metaDescription": "Discover why Android 17 dropping AOSP for new APIs is a major shift in the mobile ecosystem. Read about the impact on developers and custom ROMs today!",
+  "primaryKeyword": "Android 17 dropping AOSP for new APIs",
+  "secondaryKeywords": [
+    "Android 17 open source changes",
+    "Google Play Services APIs",
+    "Custom ROM future"
+  ],
+  "longTailKeywords": [
+    "Is Android 17 no longer open source?",
+    "How does Android 17 affect LineageOS?"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Mobile",
+    "Guides"
+  ],
+  "tags": [
+    "Android",
+    "Open Source",
+    "AOSP",
+    "Google"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Android robot logo with a lock symbol reflecting Android 17 dropping AOSP for new APIs",
+  "readingTime": "8 min",
+  "wordCount": 1800,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Android 17 Ditches AOSP For New APIs: Everything You Need To Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Mobile",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
