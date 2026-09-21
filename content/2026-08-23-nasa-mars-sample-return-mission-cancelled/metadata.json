@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-nasa-mars-sample-return-mission-cancelled",
+  "title": "NASA Mars Sample Return Mission Cancelled: What It Means",
+  "slug": "nasa-mars-sample-return-mission-cancelled",
+  "url": "https://newsgully.blogspot.com/2026/08/nasa-mars-sample-return-mission-cancelled.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-nasa-mars-sample-return-mission-cancelled/blog-content.html",
+  "metaTitle": "NASA Mars Sample Return Mission Cancelled: What It Means",
+  "metaDescription": "The NASA Mars Sample Return mission is officially dead. Discover what caused the cancellation, its impact on space exploration, and what's next for NASA.",
+  "primaryKeyword": "NASA Mars Sample Return mission",
+  "secondaryKeywords": [
+    "Mars Sample Return cancelled",
+    "Perseverance rover",
+    "NASA budget cuts"
+  ],
+  "longTailKeywords": [
+    "why was the mars sample return cancelled",
+    "what happens to perseverance samples"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Space"
+  ],
+  "tags": [
+    "NASA",
+    "Mars",
+    "Space Exploration"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T10:00:00+05:30",
+  "modifiedDate": "2026-08-23T10:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Illustration or image representing the NASA Mars Sample Return mission",
+  "readingTime": "7 min",
+  "wordCount": 1300,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "NASA Mars Sample Return Mission Cancelled: What It Means",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Space"
+    ],
+    "status": "draft"
+  }
+}
