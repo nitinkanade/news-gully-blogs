@@ -1,0 +1,58 @@
+{
+  "id": "2026-08-23-claude-discovers-enzyme-system",
+  "title": "Claude AI Discovers Novel Enzyme System with CRISPR-Like Repeats",
+  "slug": "claude-discovers-enzyme-system",
+  "url": "https://newsgully.blogspot.com/2026/08/claude-discovers-enzyme-system.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-claude-discovers-enzyme-system/blog-content.html",
+  "metaTitle": "Claude AI Discovers Novel Enzyme System with CRISPR-Like",
+  "metaDescription": "Learn how Claude AI discovers novel enzyme system with CRISPR-like repeats, revolutionizing biotechnology and genetic engineering. Stay updated!",
+  "primaryKeyword": "Claude discovers novel enzyme system with CRISPR-like repeats",
+  "secondaryKeywords": [
+    "AI in biology",
+    "CRISPR alternative",
+    "genetic engineering"
+  ],
+  "longTailKeywords": [
+    "how Claude discovered new enzyme",
+    "artificial intelligence in gene editing"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "AI",
+    "Science"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Biotech"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "DNA structure and AI representing Claude AI discovers novel enzyme system with CRISPR-like repeats",
+  "readingTime": "8 min",
+  "wordCount": 1653,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Claude AI Discovers Novel Enzyme System with CRISPR-Like Repeats",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "AI",
+      "Science"
+    ],
+    "status": "draft"
+  }
+}
