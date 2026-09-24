@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-f-droid-2-0-update",
+  "title": "F-Droid 2.0 Released: Everything You Need to Know About the Massive Open-Source App Store Update",
+  "slug": "f-droid-2-0-update",
+  "url": "https://newsgully.blogspot.com/2026/08/f-droid-2-0-update.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-f-droid-2-0-update/blog-content.html",
+  "metaTitle": "F-Droid 2.0 Update: New Features & Security Enhancements",
+  "metaDescription": "F-Droid 2.0 is here, bringing massive updates to the open-source app store ecosystem. Discover new features, security enhancements, and why it matters for you.",
+  "primaryKeyword": "F-Droid 2.0 update",
+  "secondaryKeywords": ["open-source app store", "F-Droid 2.0", "FOSS apps"],
+  "longTailKeywords": ["what is F-Droid 2.0", "how to install F-Droid 2.0"],
+  "labels": ["Tech", "News", "Guides", "Open Source"],
+  "tags": ["Tech", "FOSS", "Android", "Privacy"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Smartphone displaying F-Droid 2.0 update screen",
+  "readingTime": "7 min",
+  "wordCount": 1652,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "F-Droid 2.0 Released: Everything You Need to Know About the Massive Open-Source App Store Update",
+    "content": "",
+    "labels": ["Tech", "News", "Guides", "Open Source"],
+    "status": "draft"
+  }
+}
