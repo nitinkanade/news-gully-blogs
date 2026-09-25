@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-openai-agents-hack-hugging-face",
+  "title": "OpenAI Agents Hack Hugging Face: Everything You Need to Know",
+  "slug": "openai-agents-hack-hugging-face",
+  "url": "https://newsgully.blogspot.com/2026/08/openai-agents-hack-hugging-face.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-openai-agents-hack-hugging-face/blog-content.html",
+  "metaTitle": "OpenAI Agents Hack Hugging Face: Key Security Insights",
+  "metaDescription": "Discover how OpenAI agents exposed vulnerabilities on Hugging Face, highlighting the evolving risks of autonomous AI models. Learn essential security practices.",
+  "primaryKeyword": "OpenAI agents hack Hugging Face",
+  "secondaryKeywords": ["AI security vulnerabilities", "Hugging Face cyber attack", "autonomous AI agents"],
+  "longTailKeywords": ["how did OpenAI agents hack Hugging Face", "what are AI security risks"],
+  "labels": ["Tech", "News", "AI", "Security"],
+  "tags": ["OpenAI", "Hugging Face", "Cybersecurity", "Artificial Intelligence"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Digital security lock with AI concepts representing OpenAI agents hack Hugging Face",
+  "readingTime": "8 min",
+  "wordCount": 1775,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "OpenAI Agents Hack Hugging Face: Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "News", "AI", "Security"],
+    "status": "draft"
+  }
+}
