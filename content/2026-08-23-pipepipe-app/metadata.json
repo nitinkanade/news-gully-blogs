@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-pipepipe-app",
+  "title": "PipePipe App: The NewPipe Fork with SponsorBlock Taking Over Android",
+  "slug": "pipepipe-app",
+  "url": "https://newsgully.blogspot.com/2026/08/pipepipe-app.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-pipepipe-app/blog-content.html",
+  "metaTitle": "PipePipe App: The Best NewPipe Fork with SponsorBlock",
+  "metaDescription": "Discover the PipePipe app, a powerful NewPipe fork featuring native SponsorBlock, background playback, and complete privacy for Android users. Upgrade today!",
+  "primaryKeyword": "PipePipe app",
+  "secondaryKeywords": ["NewPipe fork", "SponsorBlock Android", "privacy streaming app"],
+  "longTailKeywords": ["how to install PipePipe", "PipePipe vs NewPipe"],
+  "labels": ["Tech", "Apps", "Guides"],
+  "tags": ["Tech", "Android", "Open Source"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Smartphone showing the PipePipe app interface",
+  "readingTime": "7 min",
+  "wordCount": 1589,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "PipePipe App: The NewPipe Fork with SponsorBlock Taking Over Android",
+    "content": "",
+    "labels": ["Tech", "Apps", "Guides"],
+    "status": "draft"
+  }
+}
