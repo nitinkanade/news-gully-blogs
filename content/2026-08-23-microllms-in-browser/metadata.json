@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-microllms-in-browser",
+  "title": "What Are MicroLLMs? How to Run Tiny AI Models Directly in Your Browser",
+  "slug": "microllms-in-browser",
+  "url": "https://newsgully.blogspot.com/2026/08/microllms-in-browser.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-microllms-in-browser/blog-content.html",
+  "metaTitle": "Run MicroLLMs in Your Browser: Tiny AI Models Guide",
+  "metaDescription": "Discover what MicroLLMs are and how you can run tiny AI models directly in your browser without cloud servers. Learn the benefits of client-side AI.",
+  "primaryKeyword": "MicroLLMs",
+  "secondaryKeywords": ["tiny AI models", "run AI in browser", "WebGPU AI"],
+  "longTailKeywords": ["what are MicroLLMs", "how to run AI locally in browser"],
+  "labels": ["Tech", "AI", "Guides"],
+  "tags": ["Tech", "AI", "WebGPU"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Digital representation of MicroLLMs processing inside a web browser",
+  "readingTime": "7 min",
+  "wordCount": 1603,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 85,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "What Are MicroLLMs? How to Run Tiny AI Models Directly in Your Browser",
+    "content": "",
+    "labels": ["Tech", "AI", "Guides"],
+    "status": "draft"
+  }
+}
