@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T18:00:00Z",
+  "lastUpdated": "2026-08-23T10:00:00Z",
   "posts": [
     {
       "id": "2026-08-23-jio-google-gemini-pro-free-offer",
@@ -18,6 +18,12 @@
       "metadataUrl": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-pipepipe-app/metadata.json",
       "status": "ready",
       "addedAt": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "2026-08-23-google-gemini-4-argon",
+      "metadataUrl": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-google-gemini-4-argon/metadata.json",
+      "status": "ready",
+      "addedAt": "2026-08-23T10:00:00Z"
     }
   ]
 }
