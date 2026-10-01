@@ -1,0 +1,62 @@
+{
+  "id": "2026-08-23-connected-car-privacy-crisis",
+  "title": "Connected Car Privacy Crisis: Is Your Vehicle Spying on You?",
+  "slug": "connected-car-privacy-crisis",
+  "url": "https://newsgully.blogspot.com/2026/08/connected-car-privacy-crisis.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-connected-car-privacy-crisis/blog-content.html",
+  "metaTitle": "Connected Car Privacy Crisis: Is Your Vehicle Spying on You?",
+  "metaDescription": "Discover the shocking truth behind the connected car privacy crisis, what data your vehicle is silently collecting, and how to protect yourself.",
+  "primaryKeyword": "connected car privacy crisis",
+  "secondaryKeywords": [
+    "automotive data mining",
+    "vehicle telemetry data",
+    "driver data protection"
+  ],
+  "longTailKeywords": [
+    "what data does my car collect",
+    "how to protect connected car privacy"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides",
+    "Automotive",
+    "Privacy"
+  ],
+  "tags": [
+    "Tech",
+    "Privacy",
+    "Connected Cars",
+    "Data Security",
+    "Automotive"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Digital display in a modern connected car dashboard illustrating data tracking",
+  "readingTime": "7 min",
+  "wordCount": 2340,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Connected Car Privacy Crisis: Is Your Vehicle Spying on You?",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides",
+      "Automotive",
+      "Privacy"
+    ],
+    "status": "draft"
+  }
+}
