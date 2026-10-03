@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-claude-5-5-opus-guide",
+  "title": "Claude 5.5 Opus Guide: Everything You Need to Know",
+  "slug": "claude-5-5-opus-guide",
+  "url": "https://newsgully.blogspot.com/2026/08/claude-5-5-opus-guide.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-claude-5-5-opus-guide/blog-content.html",
+  "metaTitle": "Claude 5.5 Opus Guide: Everything You Need to Know",
+  "metaDescription": "Unlock the full potential of Claude 5.5 Opus. Learn advanced techniques, use cases, and tips to maximize productivity. Share with your friends!",
+  "primaryKeyword": "Claude 5.5 Opus",
+  "secondaryKeywords": [
+    "Claude Code",
+    "Anthropic AI",
+    "AI productivity"
+  ],
+  "longTailKeywords": [
+    "how to use Claude 5.5 Opus",
+    "Claude 5.5 Opus vs previous versions"
+  ],
+  "labels": [
+    "Tech",
+    "AI",
+    "Guides"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Software"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Claude 5.5 Opus artificial intelligence concept",
+  "readingTime": "6 min",
+  "wordCount": 1648,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Claude 5.5 Opus Guide: Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "AI",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
