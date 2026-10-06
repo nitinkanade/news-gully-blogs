@@ -1,0 +1,58 @@
+{
+  "id": "2026-08-23-mistral-large-4",
+  "title": "Mistral Large 4: Everything You Need to Know About the New AI Model",
+  "slug": "mistral-large-4",
+  "url": "https://newsgully.blogspot.com/2026/08/mistral-large-4.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-mistral-large-4/blog-content.html",
+  "metaTitle": "Mistral Large 4: Everything You Need to Know - News Gully",
+  "metaDescription": "Discover everything you need to know about Mistral Large 4, the latest AI breakthrough. Learn about its capabilities, performance, and how it compares.",
+  "primaryKeyword": "Mistral Large 4",
+  "secondaryKeywords": [
+    "Mistral AI model",
+    "Mistral Large 4 performance",
+    "new AI models 2026"
+  ],
+  "longTailKeywords": [
+    "what is mistral large 4",
+    "how mistral large 4 compares to gpt-4",
+    "mistral large 4 use cases"
+  ],
+  "labels": [
+    "Tech",
+    "AI",
+    "Guides"
+  ],
+  "tags": [
+    "Mistral",
+    "AI",
+    "Technology",
+    "Machine Learning"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Mistral Large 4 AI model abstract visualization",
+  "readingTime": "7 min",
+  "wordCount": 1475,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Mistral Large 4: Everything You Need to Know About the New AI Model",
+    "content": "",
+    "labels": [
+      "Tech",
+      "AI",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
