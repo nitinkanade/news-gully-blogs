@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-gpt-6-intelligent-ui",
+  "title": "Everything You Need to Know About GPT-6 and Intelligent UI",
+  "slug": "gpt-6-intelligent-ui",
+  "url": "https://newsgully.blogspot.com/2026/08/gpt-6-intelligent-ui.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-gpt-6-intelligent-ui/blog-content.html",
+  "metaTitle": "GPT-6 and Intelligent UI: What You Must Know",
+  "metaDescription": "Discover everything you need to know about GPT-6 and Intelligent UI. Learn how this breakthrough tech transforms workflows. Boost your productivity today!",
+  "primaryKeyword": "GPT-6 and Intelligent UI",
+  "secondaryKeywords": [
+    "generative AI",
+    "dynamic user interface",
+    "intelligent software"
+  ],
+  "longTailKeywords": [
+    "what is an intelligent user interface",
+    "how GPT-6 changes app design"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "AI"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Software"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:30:00+05:30",
+  "modifiedDate": "2026-08-23T18:30:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Concept art of GPT-6 and Intelligent UI generating code",
+  "readingTime": "7 min",
+  "wordCount": 1578,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Everything You Need to Know About GPT-6 and Intelligent UI",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "AI"
+    ],
+    "status": "draft"
+  }
+}
