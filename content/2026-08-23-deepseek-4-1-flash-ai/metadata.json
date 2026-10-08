@@ -1,0 +1,58 @@
+{
+  "id": "2026-08-23-deepseek-4-1-flash-ai",
+  "title": "Everything You Need to Know About DeepSeek 4.1 Flash AI",
+  "slug": "deepseek-4-1-flash-ai",
+  "url": "https://newsgully.blogspot.com/2026/08/deepseek-4-1-flash-ai.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-deepseek-4-1-flash-ai/blog-content.html",
+  "metaTitle": "DeepSeek 4.1 Flash AI: Everything You Need to Know",
+  "metaDescription": "Discover everything you need to know about DeepSeek 4.1 Flash AI. Learn about its breakthrough speed, capabilities, and why the tech industry is paying attention.",
+  "primaryKeyword": "DeepSeek 4.1 Flash AI",
+  "secondaryKeywords": [
+    "DeepSeek architecture",
+    "fast AI models",
+    "AI computational efficiency"
+  ],
+  "longTailKeywords": [
+    "What is DeepSeek 4.1 Flash AI?",
+    "How does DeepSeek architecture work?",
+    "Future of fast AI models"
+  ],
+  "labels": [
+    "Tech",
+    "AI",
+    "News"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Machine Learning",
+    "DeepSeek"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "DeepSeek 4.1 Flash AI conceptual digital network",
+  "readingTime": "7 min",
+  "wordCount": 1726,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Everything You Need to Know About DeepSeek 4.1 Flash AI",
+    "content": "",
+    "labels": [
+      "Tech",
+      "AI",
+      "News"
+    ],
+    "status": "draft"
+  }
+}
