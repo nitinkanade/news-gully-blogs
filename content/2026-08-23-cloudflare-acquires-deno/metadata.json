@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-cloudflare-acquires-deno",
+  "title": "Cloudflare Acquires Deno: Everything You Need to Know",
+  "slug": "cloudflare-acquires-deno",
+  "url": "https://newsgully.blogspot.com/2026/08/cloudflare-acquires-deno.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-cloudflare-acquires-deno/blog-content.html",
+  "metaTitle": "Cloudflare acquires Deno: Big Serverless Shift Explained",
+  "metaDescription": "Cloudflare acquires Deno in a massive tech move. Discover what this means for JavaScript developers, edge computing, and the future of web apps in this deep dive.",
+  "primaryKeyword": "Cloudflare acquires Deno",
+  "secondaryKeywords": ["edge computing", "serverless applications", "Deno community"],
+  "longTailKeywords": ["What happens to Deno Deploy now?", "Will Deno remain open source after the Cloudflare acquisition?"],
+  "labels": ["Tech", "News", "Guides"],
+  "tags": ["Tech", "Web Development", "Edge Computing"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Cloudflare acquires Deno - Edge computing infrastructure",
+  "readingTime": "7 min",
+  "wordCount": 1742,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Cloudflare Acquires Deno: Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "News", "Guides"],
+    "status": "draft"
+  }
+}
