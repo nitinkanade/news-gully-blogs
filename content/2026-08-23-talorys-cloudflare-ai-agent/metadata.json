@@ -1,0 +1,58 @@
+{
+  "id": "2026-08-23-talorys-cloudflare-ai-agent",
+  "title": "What is Talorys? How to Host a Personal AI Agent on Cloudflare for Free",
+  "slug": "talorys-cloudflare-ai-agent",
+  "url": "https://newsgully.blogspot.com/2026/08/talorys-cloudflare-ai-agent.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-talorys-cloudflare-ai-agent/blog-content.html",
+  "metaTitle": "What is Talorys? Host a Personal AI Agent on Cloudflare",
+  "metaDescription": "Discover everything you need to know about Talorys. Learn how to self-host your own personal AI agent securely using Cloudflare's free tier with this guide.",
+  "primaryKeyword": "personal AI agent",
+  "secondaryKeywords": [
+    "self-hosted AI",
+    "Cloudflare AI",
+    "Talorys"
+  ],
+  "longTailKeywords": [
+    "how to host Talorys",
+    "what is Talorys",
+    "free self-hosted AI"
+  ],
+  "labels": [
+    "Tech",
+    "AI",
+    "Guides"
+  ],
+  "tags": [
+    "Talorys",
+    "AI",
+    "Cloudflare",
+    "Open Source"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Digital representation of a secure personal AI agent on a circuit board",
+  "readingTime": "5 min",
+  "wordCount": 1693,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "What is Talorys? How to Host a Personal AI Agent on Cloudflare for Free",
+    "content": "",
+    "labels": [
+      "Tech",
+      "AI",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
