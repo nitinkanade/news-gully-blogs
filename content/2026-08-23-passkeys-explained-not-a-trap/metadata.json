@@ -1,0 +1,57 @@
+{
+  "id": "2026-08-23-passkeys-explained-not-a-trap",
+  "title": "Passkeys Explained: Why This New Tech Is Not A Trap",
+  "slug": "passkeys-explained-not-a-trap",
+  "url": "https://newsgully.blogspot.com/2026/08/passkeys-explained-not-a-trap.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-passkeys-explained-not-a-trap/blog-content.html",
+  "metaTitle": "Passkeys Explained: Why This New Tech Is Not A Trap",
+  "metaDescription": "Looking for passkeys explained simply? Discover why passwordless logins are secure and not a trap. Read our full guide to upgrade your security today!",
+  "primaryKeyword": "passkeys explained",
+  "secondaryKeywords": [
+    "passwordless logins",
+    "cybersecurity",
+    "digital identity"
+  ],
+  "longTailKeywords": [
+    "what are passkeys",
+    "how do passkeys work",
+    "why passkeys are not a trap"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides"
+  ],
+  "tags": [
+    "Tech",
+    "Cybersecurity",
+    "Security"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1614064641913-6b7140414c71?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Cybersecurity lock with digital passkeys explained concept",
+  "readingTime": "5 min",
+  "wordCount": 1648,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Passkeys Explained: Why This New Tech Is Not A Trap",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
