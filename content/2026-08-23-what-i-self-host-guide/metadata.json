@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-what-i-self-host-guide",
+  "title": "What I Self-Host: A Comprehensive Guide to Taking Back Control",
+  "slug": "what-i-self-host-guide",
+  "url": "https://newsgully.blogspot.com/2026/08/what-i-self-host-guide.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-what-i-self-host-guide/blog-content.html",
+  "metaTitle": "What I Self-Host: A Comprehensive Guide to Taking Back Control",
+  "metaDescription": "Discover exactly what I self-host to maximize digital privacy, reduce cloud subscriptions, and take complete control of my data in this ultimate homelab guide.",
+  "primaryKeyword": "What I Self-Host",
+  "secondaryKeywords": ["self-hosting guide", "homelab setup", "privacy focused apps"],
+  "longTailKeywords": ["what should I self host", "best self hosted apps 2026", "how to start a homelab"],
+  "labels": ["Tech", "Guides", "Privacy", "Homelab"],
+  "tags": ["Tech", "Privacy", "Self-Hosting", "Homelab", "Open Source"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "A server rack with glowing green lights, representing what I self-host",
+  "readingTime": "7 min",
+  "wordCount": 1730,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "What I Self-Host: A Comprehensive Guide to Taking Back Control",
+    "content": "",
+    "labels": ["Tech", "Guides", "Privacy", "Homelab"],
+    "status": "draft"
+  }
+}
