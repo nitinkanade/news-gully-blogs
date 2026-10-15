@@ -1,0 +1,127 @@
+<article class="blog-post" data-slug="what-i-self-host-guide">
+  <!-- Schema markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "What I Self-Host: A Comprehensive Guide to Taking Back Control",
+    "description": "Discover what I self-host in 2026 to maximize privacy and control, including media servers, password managers, and smart home tools. Start your self-hosting journey today.",
+    "datePublished": "2026-08-23T18:00:00+05:30",
+    "dateModified": "2026-08-23T18:00:00+05:30",
+    "author": {"@type": "Person", "name": "News Gully Team"},
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80"
+  }
+  </script>
+
+  <h1>What I Self-Host: A Comprehensive Guide to Taking Back Control</h1>
+
+  <p class="excerpt">Discover exactly what I self-host to maximize digital privacy, reduce cloud subscriptions, and take complete control of my data.</p>
+
+  <nav class="toc">
+    <h2>Table of Contents</h2>
+    <ul>
+      <li><a href="#introduction">Why You Should Care About Self-Hosting</a></li>
+      <li><a href="#core-infrastructure">Core Infrastructure: Where It All Begins</a></li>
+      <li><a href="#media-entertainment">Media and Entertainment Hub</a></li>
+      <li><a href="#productivity-tools">Productivity and File Management</a></li>
+      <li><a href="#smart-home-automation">Smart Home Automation</a></li>
+      <li><a href="#privacy-security">Privacy and Security Essentials</a></li>
+      <li><a href="#faq-section">Frequently Asked Questions</a></li>
+    </ul>
+  </nav>
+
+  <h2 id="introduction">Why You Should Care About Self-Hosting</h2>
+  <p>In a world increasingly dominated by major tech conglomerates, knowing exactly <strong>what I self-host</strong> has never felt more vital to my daily digital existence. You might be wondering why anyone would intentionally choose to manage their own services when cloud solutions are incredibly convenient. The answer boils down to three fundamental principles: absolute data privacy, long-term cost reduction, and an unparalleled sense of digital autonomy. By taking control of your applications, you are no longer at the mercy of sudden price hikes, unexpected service shutdowns, or invasive terms of service modifications. You become the master of your own digital domain, orchestrating a customized environment tailored precisely to your unique needs and preferences. The transition from cloud dependence to self-hosting independence does not happen overnight. It is a calculated journey that requires patience, a willingness to learn, and a basic understanding of network fundamentals. However, the rewards far outweigh the initial learning curve. Imagine never paying another monthly subscription for file storage or media streaming again. Imagine resting easy knowing your most sensitive documents and personal photographs are stored on a physical drive you can touch, rather than on an anonymous server halfway across the globe. This guide will meticulously break down the exact software stack that powers my daily life, providing you with a roadmap to start your own self-hosting adventure securely and efficiently.</p>
+
+  <h2 id="core-infrastructure">Core Infrastructure: Where It All Begins</h2>
+  <p>Before diving into the flashy applications, we must first establish a robust foundation. The core infrastructure is the bedrock upon which all other services rely, ensuring high availability, secure access, and efficient resource allocation. For my setup, the journey begins with Proxmox VE, a powerful open-source virtualization management platform. By utilizing Proxmox, I can easily partition a single physical server into multiple isolated virtual machines and lightweight LXC containers. This modular approach ensures that if one service unexpectedly crashes or requires intense maintenance, it does not cascade and bring down the entire system. It provides the flexibility to experiment with new operating systems and software without jeopardizing the stability of my critical daily applications. Networking and secure remote access represent the next critical pillar of this foundational layer. Exposing services directly to the public internet is a recipe for disaster, inviting automated bots and malicious actors to probe your network for vulnerabilities. Instead, I rely heavily on a combination of Cloudflare Tunnels and Tailscale. Cloudflare Tunnels provide a secure, encrypted pathway from my local server to the wider internet without requiring me to open any inbound ports on my home router. This setup effectively masks my true IP address and leverages Cloudflare's massive global network for DDoS protection and caching.</p>
+
+  <h2 id="media-entertainment">Media and Entertainment Hub</h2>
+  <p>One of the most rewarding aspects of self-hosting is building a personalized media and entertainment hub that completely replaces commercial streaming subscriptions. At the center of my media empire sits Plex (or alternatively, Jellyfin, an excellent open-source counterpart). These powerful media servers automatically scan my local directories containing movies, television shows, and music, intelligently downloading rich metadata such as cover art, cast information, and episode summaries. The result is a stunning, Netflix-like interface accessible on every smart TV, tablet, and smartphone in my household. You can organize your vast collection perfectly, ensuring that you always have access to your favorite content without worrying about it being suddenly removed due to complex licensing disputes. To keep the media library consistently updated and organized, I employ a suite of automated management tools commonly referred to as the 'Arr stack. Radarr and Sonarr are the undisputed champions of this category, meticulously monitoring RSS feeds and indexers for new releases of movies and television episodes, respectively. When a desired item becomes available, these intelligent applications seamlessly instruct a download client—such as qBittorrent or SABnzbd—to retrieve the files.</p>
+
+  <h2 id="productivity-tools">Productivity and File Management</h2>
+  <p>Reclaiming control over personal data means moving away from ubiquitous, deeply integrated cloud storage solutions like Google Drive or Dropbox. For this monumental task, Nextcloud is the undisputed heavyweight champion of the self-hosting world. Nextcloud is not merely a file synchronization tool; it is an extensive, modular collaboration platform. It offers robust file sharing capabilities, integrated calendar synchronization (CalDAV), comprehensive contact management (CardDAV), and even a built-in Kanban board for project organization. The desktop and mobile applications seamlessly synchronize documents in the background, ensuring that my latest work is always backed up and instantly accessible across all my devices, all while residing safely on my own hard drives. Note-taking and personal knowledge management are essential for staying organized in a fast-paced digital world. I have fully embraced Obsidian for its powerful, local-first markdown approach. To keep my Obsidian vaults perfectly synchronized between my desktop computer, laptop, and smartphone without relying on a third-party paid service, I utilize Syncthing.</p>
+
+  <div class="pro-tip">
+    <strong>💡 Pro Tip:</strong> When setting up productivity tools like Nextcloud, always configure a robust, automated 3-2-1 backup strategy. Store 3 copies of your data, on 2 different media formats, with at least 1 copy stored securely offsite to protect against catastrophic hardware failure.
+  </div>
+
+  <h2 id="smart-home-automation">Smart Home Automation</h2>
+  <p>A truly connected home should not rely on external cloud servers to turn on a lightbulb or adjust the thermostat. Home Assistant is the absolute gold standard for local, self-hosted smart home automation. This incredibly versatile platform acts as the central brain of my house, seamlessly integrating hundreds of disjointed smart devices—from Philips Hue bulbs and Zigbee motion sensors to smart plugs and weather stations—into a single, unified dashboard. By prioritizing local control over cloud APIs, Home Assistant ensures that my automations trigger instantaneously and continue to function flawlessly even when my internet connection temporarily drops out. The real power of Home Assistant lies in its highly sophisticated automation engine. You can create complex routines that adapt to your daily life. For instance, when the sun sets, Home Assistant can automatically dim the living room lights, lower the blinds, and adjust the climate control, all based on the precise presence detection of your smartphone connecting to the local Wi-Fi network.</p>
+
+  <h2 id="privacy-security">Privacy and Security Essentials</h2>
+  <p>Perhaps the most critical aspect of exploring exactly what I self-host is the unwavering commitment to digital privacy and robust security. At the network level, Pi-hole is an absolute necessity. Operating as a network-wide DNS sinkhole, Pi-hole proactively blocks advertisements, malicious domains, and aggressive tracking telemetry before they ever reach my devices. This not only significantly cleans up the visual clutter on websites but also noticeably improves page load times and drastically reduces unnecessary bandwidth consumption across my entire home network. Every device, from smartphones to smart TVs, instantly benefits from this robust layer of protection without requiring any complex individual configuration. Managing digital identity is another crucial component of a secure setup. Vaultwarden, a highly efficient, lightweight alternative implementation of the Bitwarden server API, handles all my password management needs. By self-hosting Vaultwarden, I retain absolute control over my most sensitive credentials, encryption keys, and secure notes. The database is heavily encrypted, and the service seamlessly integrates with standard Bitwarden browser extensions.</p>
+
+  <h3>Essential Self-Hosted Services Comparison</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Self-Hosted Application</th>
+        <th>Cloud Alternative Replaced</th>
+        <th>Primary Benefit</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Media Server</td>
+        <td>Plex / Jellyfin</td>
+        <td>Netflix / Spotify</td>
+        <td>Total ownership of media</td>
+      </tr>
+      <tr>
+        <td>File Sync & Share</td>
+        <td>Nextcloud</td>
+        <td>Google Drive / Dropbox</td>
+        <td>Absolute data privacy</td>
+      </tr>
+      <tr>
+        <td>Password Management</td>
+        <td>Vaultwarden</td>
+        <td>LastPass / 1Password</td>
+        <td>Local encryption control</td>
+      </tr>
+      <tr>
+        <td>Ad Blocking</td>
+        <td>Pi-hole / AdGuard</td>
+        <td>Browser extensions</td>
+        <td>Network-wide protection</td>
+      </tr>
+      <tr>
+        <td>Note Synchronization</td>
+        <td>Syncthing + Obsidian</td>
+        <td>Evernote / Notion</td>
+        <td>Decentralized, local-first data</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section class="faq" id="faq-section" itemscope itemtype="https://schema.org/FAQPage">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Is self-hosting safe and secure?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">Yes, self-hosting can be incredibly secure if you follow established best practices. Utilizing strong, unique passwords, implementing two-factor authentication, keeping all software updated regularly, and using secure remote access tools significantly mitigates risks compared to leaving ports open to the public internet.</p>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Do I need expensive server hardware to start?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">Absolutely not. You can comfortably begin your self-hosting journey using a spare, aging laptop, an inexpensive Raspberry Pi, or a refurbished office mini-PC. As your needs grow and you add more resource-intensive applications, you can always upgrade your hardware incrementally over time.</p>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">How much technical knowledge is required to self-host?</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <p itemprop="text">While a basic understanding of networking concepts and the Linux command line is certainly helpful, the barrier to entry is lower than ever. Modern containerization tools like Docker, combined with extensive online documentation and incredibly supportive community forums, make it highly accessible for determined beginners to learn and succeed.</p>
+      </div>
+    </div>
+  </section>
+
+  <h2>Final Thoughts on Digital Autonomy</h2>
+  <p>Deciding exactly what I self-host has been a transformative experience that extends far beyond merely saving a few dollars a month on subscription fees. It represents a profound shift in mindset, a conscious decision to reclaim digital autonomy and assert ownership over personal data in an increasingly centralized internet. While the initial setup undoubtedly requires a deliberate investment of time and a willingness to troubleshoot occasional technical hurdles, the deep satisfaction of running your own secure, private infrastructure is immeasurable. The skills you acquire along the way—ranging from basic Linux administration to advanced network security concepts—are incredibly valuable in today's digital landscape. As you embark on your own self-hosting journey, remember that it is not a race. Start small, perhaps by deploying Pi-hole to clean up your network traffic, or spinning up Jellyfin to organize your personal movie collection. Gradually expand your services as you become more comfortable with the underlying technologies. The vibrant self-hosting community is always ready to assist, share knowledge, and celebrate your successes. Your data is yours; it is time to take it back and build a digital environment that truly serves your needs.</p>
+
+  <div class="cta-box">
+    <p>Enjoyed this guide on what I self-host? Share it with your friends, start your own homelab journey, and bookmark News Gully for more daily tech updates and comprehensive tutorials!</p>
+  </div>
+</article>
