@@ -1,0 +1,59 @@
+{
+  "id": "2026-08-23-run-ai-models-ps5-jailbreak",
+  "title": "How to Run AI Models Natively on a Jailbroken PS5 Using Llama.cpp",
+  "slug": "run-ai-models-ps5-jailbreak",
+  "url": "https://newsgully.blogspot.com/2026/08/run-ai-models-ps5-jailbreak.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-run-ai-models-ps5-jailbreak/blog-content.html",
+  "metaTitle": "How to Run AI Models Natively on a Jailbroken PS5",
+  "metaDescription": "Learn exactly how to run AI models natively on a jailbroken PS5 using Llama.cpp. Discover hardware limitations, benchmarks, and step-by-step setup guides.",
+  "primaryKeyword": "how to run AI models natively on a jailbroken PS5 using Llama.cpp",
+  "secondaryKeywords": [
+    "jailbroken PS5 AI inference",
+    "Llama.cpp PS5 tutorial",
+    "PS5 homebrew AI models"
+  ],
+  "longTailKeywords": [
+    "can you run LLMs on PS5",
+    "how to install Llama.cpp on PlayStation 5"
+  ],
+  "labels": [
+    "Tech",
+    "AI",
+    "Gaming"
+  ],
+  "tags": [
+    "PS5",
+    "Homebrew",
+    "Llama.cpp",
+    "AI",
+    "LLM",
+    "Hacking"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1605901309584-818e25960b8f?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Close up of a PlayStation 5 controller and console next to lines of code",
+  "readingTime": "8 min",
+  "wordCount": 1652,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 89,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "How to Run AI Models Natively on a Jailbroken PS5 Using Llama.cpp",
+    "content": "",
+    "labels": [
+      "Tech",
+      "AI",
+      "Gaming"
+    ],
+    "status": "draft"
+  }
+}
