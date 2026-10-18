@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-deepseek-search-and-fetch",
+  "title": "DeepSeek Search and Fetch: Everything You Need to Know",
+  "slug": "deepseek-search-and-fetch",
+  "url": "https://newsgully.blogspot.com/2026/08/deepseek-search-and-fetch.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-deepseek-search-and-fetch/blog-content.html",
+  "metaTitle": "DeepSeek Search API: Fetch Capabilities & Complete Guide",
+  "metaDescription": "Discover everything you need to know about the DeepSeek Search API, its revolutionary fetch capabilities, pricing, and how it transforms data retrieval.",
+  "primaryKeyword": "DeepSeek Search API",
+  "secondaryKeywords": ["API fetch capabilities", "DeepSeek pricing", "AI search API", "automated data retrieval"],
+  "longTailKeywords": ["What is the DeepSeek Search API", "How does DeepSeek fetch capability work"],
+  "labels": ["Tech", "News", "Guides", "AI"],
+  "tags": ["Tech", "AI", "Development", "API"],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Code on a screen representing DeepSeek Search API fetch capabilities",
+  "readingTime": "8 min",
+  "wordCount": 1777,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "DeepSeek Search and Fetch: Everything You Need to Know",
+    "content": "",
+    "labels": ["Tech", "News", "Guides", "AI"],
+    "status": "draft"
+  }
+}
