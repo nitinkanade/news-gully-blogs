@@ -1,0 +1,37 @@
+{
+  "id": "2026-08-23-google-open-sources-torchtpu",
+  "title": "Google Open-Sources TorchTPU: What It Means for AI Developers",
+  "slug": "google-open-sources-torchtpu",
+  "url": "https://newsgully.blogspot.com/2026/08/google-open-sources-torchtpu.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-google-open-sources-torchtpu/blog-content.html",
+  "metaTitle": "Google Open-Sources TorchTPU: A Complete Guide",
+  "metaDescription": "Google has officially open-sourced TorchTPU, a native PyTorch backend for TPUs. Learn how this changes AI development, boosting speed and efficiency.",
+  "primaryKeyword": "Google open-sources TorchTPU",
+  "secondaryKeywords": ["PyTorch TPU backend", "AI hardware acceleration", "Tensor Processing Units"],
+  "longTailKeywords": ["what is TorchTPU", "how to use PyTorch on TPU"],
+  "labels": ["Tech", "AI", "News"],
+  "tags": ["Google", "PyTorch", "TorchTPU", "Machine Learning"],
+  "category": "AI",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Abstract representation of AI and TPUs for Google open-sources TorchTPU",
+  "readingTime": "7 min",
+  "wordCount": 1537,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Google Open-Sources TorchTPU: What It Means for AI Developers",
+    "content": "",
+    "labels": ["Tech", "AI", "News"],
+    "status": "draft"
+  }
+}
