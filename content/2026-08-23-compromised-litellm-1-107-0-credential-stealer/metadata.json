@@ -1,0 +1,59 @@
+{
+  "id": "2026-08-23-compromised-litellm-1-107-0-credential-stealer",
+  "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer",
+  "slug": "compromised-litellm-1-107-0-credential-stealer",
+  "url": "https://newsgully.blogspot.com/2026/08/compromised-litellm-1-107-0-credential-stealer.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-compromised-litellm-1-107-0-credential-stealer/blog-content.html",
+  "metaTitle": "Compromised LiteLLM - Protect Your Data Now",
+  "metaDescription": "Discover everything you need to know about the Compromised LiteLLM 1.107.0 on PyPI that installs a credential stealer. Learn how to secure your systems today. Share it!",
+  "primaryKeyword": "Compromised LiteLLM",
+  "secondaryKeywords": [
+    "credential stealer",
+    "PyPI malware",
+    "supply chain attack"
+  ],
+  "longTailKeywords": [
+    "how to remove litellm malware",
+    "pypi credential stealer python"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides",
+    "Security"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Security",
+    "Python"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:30:00+05:30",
+  "modifiedDate": "2026-08-23T18:30:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Compromised LiteLLM warning on a computer screen",
+  "readingTime": "7 min",
+  "wordCount": 1732,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides",
+      "Security"
+    ],
+    "status": "draft"
+  }
+}
