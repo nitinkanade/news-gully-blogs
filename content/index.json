@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T18:00:00Z",
+  "lastUpdated": "2026-08-23T12:00:00Z",
   "posts": [
     {
       "id": "2026-08-23-jio-google-gemini-pro-free-offer",
@@ -24,6 +24,12 @@
       "metadataUrl": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-gpt-6-1-sol-everything-you-need-to-know/metadata.json",
       "status": "ready",
       "addedAt": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "2026-08-23-macbook-pro-m6",
+      "metadataUrl": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-macbook-pro-m6/metadata.json",
+      "status": "ready",
+      "addedAt": "2026-08-23T12:00:00Z"
     }
   ]
 }
