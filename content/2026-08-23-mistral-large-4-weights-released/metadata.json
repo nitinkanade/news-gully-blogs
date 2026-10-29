@@ -1,0 +1,57 @@
+{
+  "id": "2026-08-23-mistral-large-4-weights-released",
+  "title": "Mistral Large 4 Weights Released: Everything You Need to Know",
+  "slug": "mistral-large-4-weights-released",
+  "url": "https://newsgully.blogspot.com/2026/08/mistral-large-4-weights-released.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-mistral-large-4-weights-released/blog-content.html",
+  "metaTitle": "Mistral Large 4 Weights Released: Open Source Guide",
+  "metaDescription": "Mistral Large 4 weights released! Discover how to use this open-source AI, hardware requirements, and why it changes the landscape for developers. Read more!",
+  "primaryKeyword": "Mistral Large 4 weights released",
+  "secondaryKeywords": [
+    "open-source AI",
+    "Mistral AI",
+    "download Mistral Large"
+  ],
+  "longTailKeywords": [
+    "how to run Mistral Large 4 locally",
+    "Mistral Large 4 hardware requirements"
+  ],
+  "labels": [
+    "Tech",
+    "AI",
+    "News"
+  ],
+  "tags": [
+    "AI",
+    "Open Source",
+    "LLM",
+    "Mistral"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-example?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Abstract AI nodes representing Mistral Large 4 weights released open source",
+  "readingTime": "9 min",
+  "wordCount": 1898,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Mistral Large 4 Weights Released: Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "AI",
+      "News"
+    ],
+    "status": "draft"
+  }
+}
