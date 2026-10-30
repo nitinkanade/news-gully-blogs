@@ -1,0 +1,57 @@
+{
+  "id": "2026-08-23-claude-code-vscode-extension-backdoor",
+  "title": "Breaking: Backdoor Discovered in Claude Code for VS Code Extension",
+  "slug": "claude-code-vscode-extension-backdoor",
+  "url": "https://newsgully.blogspot.com/2026/08/claude-code-vscode-extension-backdoor.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-claude-code-vscode-extension-backdoor/blog-content.html",
+  "metaTitle": "Claude Code for VS Code Extension Backdoor: Secure Your Env",
+  "metaDescription": "Discover the shocking details about the Claude Code for VS Code extension backdoor, its impact on developers, and essential steps to secure your coding environment immediately.",
+  "primaryKeyword": "Claude Code for VS Code extension backdoor",
+  "secondaryKeywords": [
+    "VS Code security",
+    "supply chain attack",
+    "AI coding tools"
+  ],
+  "longTailKeywords": [
+    "How to secure VS Code",
+    "Is Claude Code safe"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Security"
+  ],
+  "tags": [
+    "Tech",
+    "Security",
+    "VS Code",
+    "AI"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Cybersecurity concept showing code and a padlock representing the Claude Code for VS Code extension backdoor",
+  "readingTime": "10 min",
+  "wordCount": 2129,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Breaking: Backdoor Discovered in Claude Code for VS Code Extension",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Security"
+    ],
+    "status": "draft"
+  }
+}
