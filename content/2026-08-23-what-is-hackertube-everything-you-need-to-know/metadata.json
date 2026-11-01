@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-what-is-hackertube-everything-you-need-to-know",
+  "title": "What is HackerTube? Everything You Need to Know",
+  "slug": "what-is-hackertube-everything-you-need-to-know",
+  "url": "https://newsgully.blogspot.com/2026/08/what-is-hackertube-everything-you-need-to-know.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-what-is-hackertube-everything-you-need-to-know/blog-content.html",
+  "metaTitle": "What is HackerTube? Everything You Need to Know",
+  "metaDescription": "Discover what HackerTube is, how it curates YouTube videos recommended by Hacker News, and why it is the ultimate tool for tech enthusiasts and developers.",
+  "primaryKeyword": "what is HackerTube",
+  "secondaryKeywords": [
+    "HackerTube features",
+    "Hacker News videos",
+    "tech videos"
+  ],
+  "longTailKeywords": [
+    "how does HackerTube work",
+    "HackerTube vs YouTube"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides"
+  ],
+  "tags": [
+    "Tech",
+    "Programming",
+    "Hacker News"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "HackerTube interface displaying tech videos",
+  "readingTime": "10 min",
+  "wordCount": 2085,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "What is HackerTube? Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
