@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-subvocal-ai-silent-voice-recognition",
+  "title": "Subvocal AI: Everything You Need to Know",
+  "slug": "subvocal-ai-silent-voice-recognition",
+  "url": "https://newsgully.blogspot.com/2026/08/subvocal-ai-silent-voice-recognition.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-subvocal-ai-silent-voice-recognition/blog-content.html",
+  "metaTitle": "Subvocal AI: Silent Voice Recognition Guide",
+  "metaDescription": "Discover Subvocal AI and how silent voice recognition technology is revolutionizing human-computer interaction. Learn everything you need to know today.",
+  "primaryKeyword": "Subvocal AI",
+  "secondaryKeywords": [
+    "silent voice recognition",
+    "silent computing",
+    "EMG sensors"
+  ],
+  "longTailKeywords": [
+    "what is subvocal ai",
+    "how does silent computing work"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "AI"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Mobile"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-example?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Visualization of Subvocal AI technology",
+  "readingTime": "8 min",
+  "wordCount": 1646,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Subvocal AI: Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "AI"
+    ],
+    "status": "draft"
+  }
+}
