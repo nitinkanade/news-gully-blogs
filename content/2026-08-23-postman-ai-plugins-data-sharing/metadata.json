@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-postman-ai-plugins-data-sharing",
+  "title": "Postman Silently Auto-Installs AI Plugins and Attempts to Share All API Data",
+  "slug": "postman-ai-plugins-data-sharing",
+  "url": "https://newsgully.blogspot.com/2026/08/postman-ai-plugins-data-sharing.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-postman-ai-plugins-data-sharing/blog-content.html",
+  "metaTitle": "Postman AI Plugins Data Sharing Security Alert",
+  "metaDescription": "Discover how Postman AI plugins data sharing is silently exposing API data and what you can do to protect your sensitive information today.",
+  "primaryKeyword": "Postman AI plugins data sharing",
+  "secondaryKeywords": [
+    "API security",
+    "Postman auto-update",
+    "data telemetry"
+  ],
+  "longTailKeywords": [
+    "how to disable postman ai",
+    "is postman safe for enterprise"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Security"
+  ],
+  "tags": [
+    "Tech",
+    "API",
+    "Security"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-example?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Abstract visualization of secure API data flow and AI integration",
+  "readingTime": "9 min",
+  "wordCount": 1746,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Postman Silently Auto-Installs AI Plugins and Attempts to Share All API Data",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Security"
+    ],
+    "status": "draft"
+  }
+}
