@@ -1,0 +1,58 @@
+{
+  "id": "2026-08-23-ripple-65b-ai",
+  "title": "Ripple-65B AI: Everything You Need to Know About the SOTA Open-Weight Agent",
+  "slug": "ripple-65b-ai",
+  "url": "https://newsgully.blogspot.com/2026/08/ripple-65b-ai.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-ripple-65b-ai/blog-content.html",
+  "metaTitle": "Ripple-65B AI: Open-Weight Agentic Coding SOTA Explained",
+  "metaDescription": "Discover everything you need to know about the new Ripple-65B AI, the state-of-the-art open-weight model dominating agentic coding benchmarks. Read more!",
+  "primaryKeyword": "Ripple-65B AI",
+  "secondaryKeywords": [
+    "open-weight model",
+    "agentic coding",
+    "SWE-bench"
+  ],
+  "longTailKeywords": [
+    "what is Ripple-65B",
+    "how to run Ripple-65B locally"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides",
+    "AI"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Coding"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Abstract representation of Ripple-65B AI neural network nodes",
+  "readingTime": "9 min",
+  "wordCount": 1698,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Ripple-65B AI: Everything You Need to Know About the SOTA Open-Weight Agent",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides",
+      "AI"
+    ],
+    "status": "draft"
+  }
+}
