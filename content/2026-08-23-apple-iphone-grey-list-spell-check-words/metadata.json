@@ -1,0 +1,56 @@
+{
+  "id": "2026-08-23-apple-iphone-grey-list-spell-check-words",
+  "title": "Apple's Spell Check Grey List: Everything You Need to Know",
+  "slug": "apple-iphone-grey-list-spell-check-words",
+  "url": "https://newsgully.blogspot.com/2026/08/apple-iphone-grey-list-spell-check-words.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-apple-iphone-grey-list-spell-check-words/blog-content.html",
+  "metaTitle": "Apple's Spell Check Grey List Guide",
+  "metaDescription": "Discover everything about Apple's spell check grey list, the hidden dictionary your iPhone uses to censor specific words and how it affects your typing.",
+  "primaryKeyword": "Apple's spell check grey list",
+  "secondaryKeywords": [
+    "iPhone keyboard",
+    "autocorrect fail",
+    "iOS features"
+  ],
+  "longTailKeywords": [
+    "how to turn off predictive text",
+    "why does iPhone autocorrect change my words"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides"
+  ],
+  "tags": [
+    "Tech",
+    "Mobile",
+    "Apple"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-example?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Smartphone keyboard showing Apple's spell check grey list concept",
+  "readingTime": "7 min",
+  "wordCount": 1431,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 88,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Apple's Spell Check Grey List: Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides"
+    ],
+    "status": "draft"
+  }
+}
