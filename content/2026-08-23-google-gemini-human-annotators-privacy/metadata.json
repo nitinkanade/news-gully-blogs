@@ -1,0 +1,59 @@
+{
+  "id": "2026-08-23-google-gemini-human-annotators-privacy",
+  "title": "Google Gemini Privacy Alert: Your Personal Drive Files and Emails Read by Human Annotators",
+  "slug": "google-gemini-human-annotators-privacy",
+  "url": "https://newsgully.blogspot.com/2026/08/google-gemini-human-annotators-privacy.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-google-gemini-human-annotators-privacy/blog-content.html",
+  "metaTitle": "Google Gemini Privacy Alert: Your Drive Files Read by Humans",
+  "metaDescription": "Are your files truly private? Learn how Google Gemini privacy routes Drive files to human annotators and find out what to do to protect your data today.",
+  "primaryKeyword": "Google Gemini privacy",
+  "secondaryKeywords": [
+    "human annotators",
+    "Drive files",
+    "email privacy"
+  ],
+  "longTailKeywords": [
+    "Does Google Gemini read my personal emails",
+    "How to protect Google Drive privacy from AI"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides",
+    "Privacy"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Privacy",
+    "Google"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T10:00:00+05:30",
+  "modifiedDate": "2026-08-23T10:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-example?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "A person working on a laptop, analyzing data security and privacy settings for cloud storage",
+  "readingTime": "7 min",
+  "wordCount": 1513,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "Google Gemini Privacy Alert: Your Personal Drive Files and Emails Read by Human Annotators",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides",
+      "Privacy"
+    ],
+    "status": "draft"
+  }
+}
