@@ -1,0 +1,58 @@
+{
+  "id": "2026-08-23-alphaproof-code",
+  "title": "AlphaProof Code Guide: Everything You Need to Know",
+  "slug": "alphaproof-code",
+  "url": "https://newsgully.blogspot.com/2026/08/alphaproof-code.html",
+  "htmlUrlLocation": "https://nitinkanade.github.io/news-gully-blogs/content/2026-08-23-alphaproof-code/blog-content.html",
+  "metaTitle": "AlphaProof Code Guide: Everything You Need to Know",
+  "metaDescription": "Unlock the power of AlphaProof code to build flawless software and advance automated reasoning. Find out how this tool is reshaping the tech landscape.",
+  "primaryKeyword": "AlphaProof code",
+  "secondaryKeywords": [
+    "automated reasoning",
+    "formal verification",
+    "software engineering"
+  ],
+  "longTailKeywords": [
+    "What exactly is AlphaProof code",
+    "How does it differ from traditional testing"
+  ],
+  "labels": [
+    "Tech",
+    "News",
+    "Guides",
+    "AI"
+  ],
+  "tags": [
+    "Tech",
+    "AI",
+    "Software"
+  ],
+  "category": "Tech",
+  "author": "News Gully Team",
+  "authorBio": "News Gully brings you the latest tech scoops, guides, and trending news.",
+  "publishedDate": "2026-08-23T18:00:00+05:30",
+  "modifiedDate": "2026-08-23T18:00:00+05:30",
+  "featuredImage": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&auto=format&fit=crop&q=80",
+  "featuredImageAlt": "Abstract visualization of AlphaProof code verifying neural network logic",
+  "readingTime": "7 min",
+  "wordCount": 1567,
+  "language": "en",
+  "status": "ready",
+  "isTrending": true,
+  "trendScore": 92,
+  "bloggerApiPayload": {
+    "kind": "blogger#post",
+    "blog": {
+      "id": "2578040363867477079"
+    },
+    "title": "AlphaProof Code Guide: Everything You Need to Know",
+    "content": "",
+    "labels": [
+      "Tech",
+      "News",
+      "Guides",
+      "AI"
+    ],
+    "status": "draft"
+  }
+}
